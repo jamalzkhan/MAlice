@@ -11,6 +11,7 @@ To use the compiler do the following (assuming you are using a *nix environment)
 
  - Make the project in the src folder
  - Run the command $ ./compile input_file.alice
- - In the same directory as where the input file resides input_file.o, input_file.s, input_file (executable) are created
+ - In the same directory as where the input file resides
+   input_file.o, input_file.s, input_file (executable) are created
  - The input_file.s is the assembly file
  - Run ./_input_file and use the $ echo $? command to get the result of the program which was compiled and run
