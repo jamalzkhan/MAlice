@@ -1,5 +1,7 @@
 This is a Compiler written as a school project for a ficticious language called MAlice.
-Done for 2nd year Computing at Imperial College London www.doc.ic.ac.uk
+
+Lab exercise for 2nd year Computing at Imperial College London www.doc.ic.ac.uk
+
 Our implementation was done in C, and the compiler produces output in Intel x86 assembly.
 
 - In the Compiler_Specification pdf there is the BNF of the compiler and what inputs it takes.
